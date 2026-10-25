@@ -48,34 +48,9 @@ A simple yet powerful Android app for managing both **system** and **user** appl
     - 🧹 Debloat (uninstall system apps) - requires root or Shizuku
     - 🚫 Disable/enable any app - requires root or Shizuku
 
----
+Maintaining this project takes time and dedication. If you'd like to help keep it alive
 
-## 💖 Support This Project
-Maintaining this project takes time and dedication. If you'd like to help keep it alive:
-
-### ☕ Donate
-
-
-[<img src="https://raw.githubusercontent.com/SmartPack/SmartPack.github.io/master/assets/pic014.png"
-alt=""
-height="50">](https://github.com/sponsors/sunilpaulmathew)
-[<img src="https://liberapay.com/assets/widgets/donate.svg"
-alt=""
-height="50">](https://liberapay.com/sunilpaulmathew/donate)
-[<img src="https://raw.githubusercontent.com/SmartPack/SmartPack.github.io/master/assets/pic005.png"
-alt=""
-height="50">](https://www.paypal.me/menacherry/)
-[<img src="https://raw.githubusercontent.com/SmartPack/SmartPack.github.io/master/assets/pic010.png"
-alt=""
-height="50">](https://ko-fi.com/sunilpaulmathew/)
-
----
-
-## 🙌 Other Ways to Support
-
-- ⭐ Leave a review or rating on [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) — it's free and helps visibility!
-- 🌐 Contribute to [translations](https://poeditor.com/join/project?hash=0CitpyI1Oc)
-- 📢 Spread the word — share with friends, forums, or on social media
+- Leave a review or rating on [Google Play](https://playstore/apps/deit's free and helps 
 
 ---
 
@@ -90,26 +65,3 @@ Help translate the app into more languages:
 
 ## 👥 Contributors
 See all [contributors](https://github.com/SmartPack/PackageManager/graphs/contributors) who helped build this project.
-
----
-
-## License
-
-    Copyright (C) 2020-2026 sunilpaulmathew <sunil.kde@gmail.com>
-
-    Package Manager is a free softwares: you can redistribute it and/or
-    modify it under the terms of the GNU General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or (at
-    your option) any later version.
-
-    Package Manager is distributed in the hope that it will be useful, but
-    WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
-    or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
-    for more details.
-
-    You should have received a copy of the GNU General Public License along
-    with Package Manager. If not, see <http://www.gnu.org/licenses/>.
-
----
-
-Thank you for using Package Manager!
